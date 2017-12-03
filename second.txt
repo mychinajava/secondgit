@@ -5,4 +5,3 @@ branch test
 
 master branch
 new feature1
-I have finish the bug fixture on master
