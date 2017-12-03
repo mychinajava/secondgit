@@ -8,4 +8,8 @@ new feature1
 
 fix the bug on the dev
 
+<<<<<<< HEAD
 ggggggggggggggggggggggggggggg
+=======
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+>>>>>>> mmmm
