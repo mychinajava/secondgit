@@ -6,4 +6,4 @@ branch test
 master branch
 new feature1
 
-fix the bug
+fix the bug on the dev
